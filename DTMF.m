@@ -399,7 +399,7 @@ semilogy(f,abs(h))
 xlim([0 4000])
 
 end
-
+#### main function for DTFM detecting
 function freq = detec_freq(InputSignal,fs)
 
 step = 25;
