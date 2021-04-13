@@ -1,4 +1,11 @@
-%% Section 3
+% published by MohammadAmin Alamalhoda (2019)
+% feel free to use it anywhere !
+% http://ee.sharif.ir/~amin
+% Please if this code was useful to you star this repository on my Github or indorse me on LinkedIn
+% Github: https://github.com/MohammadAminAlamalhoda
+% LinkedIn: https://www.linkedin.com/in/mohammadamin-alamalhoda-765702168
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 clc;
 clear;
 
